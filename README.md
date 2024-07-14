@@ -11,4 +11,4 @@ I am a Front-End developer with experience in creating modern web applications. 
 - **Development tools:** npm, Git
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyPritula&show_icons=true&bg_color=00000000)
