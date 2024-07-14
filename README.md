@@ -10,5 +10,6 @@ I am a Front-End developer with experience in creating modern web applications. 
 - **Frameworks and libraries:** React, Vue.js
 - **Development tools:** npm, Git
 
+<img alt="VitaliyPritula GitHub stats" src="https://github-readme-stats.vercel.app/api?username=VitaliyPritula&show_icons=true&bg_color=00000000" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyPritula&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyPritula&layout=compact&exclude_repo=github-readme-stats,VitaliyFrontendDeveloper.github.io)]
