@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitaliy</h1>
+<h3 align="center">Lead Front-End Engineer | React | Next.js | TypeScript | Tailwind CSS</h3>
 <h3 align="center">I am a Front-End developer with experience in creating modern web applications. My passion is the development of convenient, beautiful and effective user interfaces.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitaliypritula" alt="vitaliypritula" /></a> </p>
