@@ -50,9 +50,8 @@ Frontend Engineer (React, TypeScript, Tailwind) with 4+ years of experience buil
 
 ## 📫 Contact Me
 
-* Upwork: (посилання)
-* Telegram: (посилання)
-
+* linkedin: https://www.linkedin.com/in/vitaliiprytula/
+* Telegram: https://t.me/vitaliy_pritula
 ---
 
 ⭐ Always open to interesting projects and collaborations
