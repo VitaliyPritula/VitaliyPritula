@@ -1,46 +1,47 @@
 <h1 align="center">Hi 👋, I'm Vitaliy</h1>
 
 <h3 align="center">
-Frontend Engineer (React, TypeScript, Tailwind) with 4+ years of experience building scalable and user-friendly web applications.
+Frontend Engineer specializing in building scalable, high-performance web applications with React, TypeScript, and modern UI architecture.
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Lead Frontend Engineer with experience leading frontend development in real-world projects
-* 🛠 I build scalable, high-performance web applications using React, TypeScript, Next.js, and Tailwind CSS
-* 🤝 Experience in volunteer product development (BazaTrainee)
-* 🎯 Focused on clean architecture, reusable components, and UI/UX quality
+* 💼 Frontend Engineer with experience in building real-world production applications and leading frontend development tasks
+* 🧠 Focused on scalable architecture, reusable UI systems, and performance optimization
+* 🛠 Strong experience with React, TypeScript, Next.js, and Tailwind CSS
+* 🤝 Contributed to volunteer product development at BazaTrainee
+* 🎯 Passionate about clean code, UI/UX quality, and product thinking
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧩 User Dashboard (SaaS-style application)
-A real-world dashboard designed for managing and exploring data with advanced UX features.
+### 🧩 User Dashboard (SaaS-style Application)
+A scalable dashboard designed for managing and exploring structured data efficiently.
 
-- Advanced filtering, search, and sorting
+- Advanced filtering, search, and sorting system
 - Pagination with API integration
-- Responsive and accessible UI
-- Clean and scalable component architecture
-- Optimized state management
+- Responsive, accessible UI across all devices
+- Modular and reusable component architecture
+- Optimized state handling and performance-focused design
 
 👉 Live Demo: [link]  
 👉 Code: [repo]
 
 ---
 
-### 🎨 UI / Landing Page Project
-A modern, responsive landing page built with pixel-perfect design implementation.
+### 🎨 Modern Landing Page / UI System
+A production-style landing page built with pixel-perfect design implementation.
 
-- Fully responsive across all devices
-- Reusable UI components
+- Fully responsive layout across all screen sizes
+- Reusable and maintainable UI components
 - Clean Tailwind CSS architecture
 - Focus on performance and visual consistency
 
-👉 Live Demo: [link]  
-👉 Code: [repo]
+👉 Live Demo: https://chat-application-one-wine.vercel.app/  
+👉 Code: https://github.com/VitaliyPritula/Chat-Application
 
 ---
 
@@ -59,4 +60,4 @@ React • Next.js • TypeScript • Tailwind CSS • Zustand • Firebase • G
 
 💬 Open to freelance, remote, and long-term frontend opportunities
 
-⭐ Always open to interesting projects and collaborations
+⭐ Always open to building impactful products and collaborating on interesting ideas
