@@ -8,10 +8,10 @@ Frontend Engineer specializing in building scalable, high-performance web applic
 
 ## 🚀 About Me
 
-* 💼 Frontend Engineer with experience in building real-world production applications and leading frontend development tasks
-* 🧠 Focused on scalable architecture, reusable UI systems, and performance optimization
+* 💼 Frontend Engineer with experience building real-world production applications and contributing to frontend architecture and development
+* 🧠 Focused on scalable systems, reusable UI components, and performance optimization
 * 🛠 Strong experience with React, TypeScript, Next.js, and Tailwind CSS
-* 🤝 Contributed to volunteer product development at BazaTrainee
+* 🤝 Experience in volunteer product development at BazaTrainee
 * 🎯 Passionate about clean code, UI/UX quality, and product thinking
 
 ---
@@ -19,13 +19,13 @@ Frontend Engineer specializing in building scalable, high-performance web applic
 ## 🔥 Featured Projects
 
 ### 🧩 User Dashboard (SaaS-style Application)
-A scalable dashboard designed for managing and exploring structured data efficiently.
+A scalable data management dashboard designed for efficient interaction with large datasets.
 
 - Advanced filtering, search, and sorting system
 - Pagination with API integration
-- Responsive, accessible UI across all devices
+- Fully responsive and accessible UI
 - Modular and reusable component architecture
-- Optimized state handling and performance-focused design
+- Performance-optimized state management
 
 👉 Live Demo: [link]  
 👉 Code: [repo]
@@ -33,12 +33,12 @@ A scalable dashboard designed for managing and exploring structured data efficie
 ---
 
 ### 🎨 Modern Landing Page / UI System
-A production-style landing page built with pixel-perfect design implementation.
+A production-ready landing page built with pixel-perfect implementation and strong UI consistency.
 
-- Fully responsive layout across all screen sizes
-- Reusable and maintainable UI components
-- Clean Tailwind CSS architecture
-- Focus on performance and visual consistency
+- Fully responsive across all devices
+- Reusable component-based architecture
+- Clean and scalable Tailwind CSS structure
+- Focus on performance and UX quality
 
 👉 Live Demo: https://chat-application-one-wine.vercel.app/  
 👉 Code: https://github.com/VitaliyPritula/Chat-Application
@@ -53,11 +53,11 @@ React • Next.js • TypeScript • Tailwind CSS • Zustand • Firebase • G
 
 ## 📫 Contact Me
 
-* LinkedIn: https://www.linkedin.com/in/vitaliiprytula/
-* Telegram: https://t.me/vitaliy_pritula
+- LinkedIn: https://www.linkedin.com/in/vitaliiprytula/  
+- Telegram: https://t.me/vitaliy_pritula  
 
 ---
 
 💬 Open to freelance, remote, and long-term frontend opportunities
 
-⭐ Always open to building impactful products and collaborating on interesting ideas
+⭐ Focused on building scalable products and collaborating on impactful projects
