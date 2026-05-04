@@ -8,50 +8,55 @@ Frontend Engineer (React, TypeScript, Tailwind) with 4+ years of experience buil
 
 ## 🚀 About Me
 
-* 💼 Lead Frontend Engineer with team leadership experience
-* 🛠 Building scalable apps using **React, TypeScript, Next.js, Tailwind CSS**
-* 🤝 Contributing to volunteer projects at **BazaTrainee**
-* 🎯 Focused on clean UI, performance, and reusable architecture
+* 💼 Lead Frontend Engineer with experience leading frontend development in real-world projects
+* 🛠 I build scalable, high-performance web applications using React, TypeScript, Next.js, and Tailwind CSS
+* 🤝 Experience in volunteer product development (BazaTrainee)
+* 🎯 Focused on clean architecture, reusable components, and UI/UX quality
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧩 User Dashboard (SaaS-style app)
+### 🧩 User Dashboard (SaaS-style application)
+A real-world dashboard designed for managing and exploring data with advanced UX features.
 
-* Advanced filtering & search
-* Pagination & API integration
-* Responsive UI
+- Advanced filtering, search, and sorting
+- Pagination with API integration
+- Responsive and accessible UI
+- Clean and scalable component architecture
+- Optimized state management
 
-👉 Live Demo: (додаси)
-👉 Code: (repo)
+👉 Live Demo: [link]  
+👉 Code: [repo]
 
 ---
 
-### 🎨 UI / Landing Page
+### 🎨 UI / Landing Page Project
+A modern, responsive landing page built with pixel-perfect design implementation.
 
-* Pixel-perfect layout
-* Fully responsive
-* Clean component structure
+- Fully responsive across all devices
+- Reusable UI components
+- Clean Tailwind CSS architecture
+- Focus on performance and visual consistency
 
-👉 Live Demo:
-👉 Code:
+👉 Live Demo: [link]  
+👉 Code: [repo]
 
 ---
 
 ## 🛠 Tech Stack
 
-* React / Next.js
-* TypeScript
-* Tailwind CSS
-* Zustand / Firebase
+React • Next.js • TypeScript • Tailwind CSS • Zustand • Firebase • Git
 
 ---
 
 ## 📫 Contact Me
 
-* linkedin: https://www.linkedin.com/in/vitaliiprytula/
+* LinkedIn: https://www.linkedin.com/in/vitaliiprytula/
 * Telegram: https://t.me/vitaliy_pritula
+
 ---
+
+💬 Open to freelance, remote, and long-term frontend opportunities
 
 ⭐ Always open to interesting projects and collaborations
