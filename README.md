@@ -8,10 +8,10 @@ Frontend Engineer specializing in building scalable, high-performance web applic
 
 ## 🚀 About Me
 
-* 💼 Frontend Engineer with experience building real-world production applications and contributing to frontend architecture and development
+* 💼 Frontend Engineer with 4+ years of experience building real-world applications and contributing to frontend architecture and development
+* 👥 Lead Frontend Engineer in a volunteer product team (BazaTrainee): code reviews, mentoring junior developers, team coordination
 * 🧠 Focused on scalable systems, reusable UI components, and performance optimization
 * 🛠 Strong experience with React, TypeScript, Next.js, and Tailwind CSS
-* 🤝 Experience in volunteer product development at BazaTrainee
 * 🎯 Passionate about clean code, UI/UX quality, and product thinking
 
 ---
@@ -27,34 +27,56 @@ A scalable data management dashboard designed for efficient interaction with lar
 - Modular and reusable component architecture
 - Performance-optimized state management
 
-👉 Live Demo: [link]  
-👉 Code: [repo]
+👉 [Live Demo](https://dashbord-sepia-omega.vercel.app/)  
+👉 [Source Code](https://github.com/VitaliyPritula/Dashbord)
 
 ---
 
-### 🎨 Modern Landing Page / UI System
-A production-ready landing page built with pixel-perfect implementation and strong UI consistency.
+### 💬 Chat Application
+A responsive real-time-style chat interface built with a component-based architecture.
 
 - Fully responsive across all devices
 - Reusable component-based architecture
 - Clean and scalable Tailwind CSS structure
 - Focus on performance and UX quality
 
-👉 Live Demo: https://chat-application-one-wine.vercel.app/  
-👉 Code: https://github.com/VitaliyPritula/Chat-Application
+👉 [Live Demo](https://chat-application-one-wine.vercel.app/)  
+👉 [Source Code](https://github.com/VitaliyPritula/Chat-Application)
+
+---
+
+### 🚗 VIN Decoder
+A single-page app that decodes vehicle VIN numbers using the NHTSA Vehicle API.
+
+- Built with React and TypeScript
+- Integration with a public REST API
+- Clean, responsive UI
+
+👉 [Live Demo](https://vin-decoder-kappa.vercel.app/)  
+👉 [Source Code](https://github.com/VitaliyPritula/VIN-DECODER)
+
+---
+
+## 🏢 Experience
+
+**Lead Frontend Engineer — BazaTrainee** *(volunteer organization)*
+Leading a frontend team, conducting code reviews, and mentoring junior developers on production-oriented projects.
+
+**Freelance Frontend Developer** — since 2022
 
 ---
 
 ## 🛠 Tech Stack
 
-React • Next.js • TypeScript • Tailwind CSS • Zustand • Firebase • Git
+React • Next.js • TypeScript • Tailwind CSS • Zustand • Firebase • Supabase • Git
 
 ---
 
 ## 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/vitaliiprytula/  
-- Telegram: https://t.me/vitaliy_pritula  
+- 🌐 Portfolio: [portfolio-vitaliy.vercel.app](https://portfolio-vitaliy.vercel.app)
+- 💼 LinkedIn: [in/vitaliiprytula](https://www.linkedin.com/in/vitaliiprytula/)
+- ✈️ Telegram: [@vitaliy_pritula](https://t.me/vitaliy_pritula)
 
 ---
 
